@@ -13,7 +13,7 @@ module.exports = {
     ],
   ],
 
-  //base: "/sheweny-website/",
+  base: "/sheweny-website/",
   themeConfig: {
     repo: "https://github.com/Sheweny/framework/",
     docsRepo: "https://github.com/Sheweny/website/",

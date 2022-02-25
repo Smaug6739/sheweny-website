@@ -23,7 +23,7 @@ features:
     details: Development mode for limit errors.
   - title: JS and TS
     details: Full javascript and typescript support.
-footer: MIT Licensed | Copyright © 2021-sheweny
+footer: MIT Licensed | Copyright © 2021-2022 Sheweny
 ---
 
 # As easy as that

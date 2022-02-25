@@ -23,6 +23,8 @@
 
 - DM
 
+- GLOBAL
+
 Type : [String](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String)
 
 ## CommandMessageArgument

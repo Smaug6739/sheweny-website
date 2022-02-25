@@ -57,4 +57,6 @@ Type : [String](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Glob
 
 - `USER` : A discord user
 
+- `COMMAND` : A loaded command
+
 Type : [String](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String)
